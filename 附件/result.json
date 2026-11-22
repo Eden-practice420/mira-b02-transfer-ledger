@@ -1,0 +1,104 @@
+{
+  "同向延误": {
+    "0": {
+      "caught": 25,
+      "eligible": 88,
+      "wait_pm": 857,
+      "delay_pm": 0,
+      "cost_pm": 857,
+      "pct": 28.4
+    },
+    "1": {
+      "caught": 54,
+      "eligible": 88,
+      "wait_pm": 451,
+      "delay_pm": 40,
+      "cost_pm": 491,
+      "pct": 61.4
+    },
+    "2": {
+      "caught": 79,
+      "eligible": 88,
+      "wait_pm": 126,
+      "delay_pm": 140,
+      "cost_pm": 266,
+      "pct": 89.8
+    },
+    "3": {
+      "caught": 88,
+      "eligible": 88,
+      "wait_pm": 18,
+      "delay_pm": 176,
+      "cost_pm": 194,
+      "pct": 100.0
+    }
+  },
+  "反向错位": {
+    "0": {
+      "caught": 32,
+      "eligible": 88,
+      "wait_pm": 702,
+      "delay_pm": 0,
+      "cost_pm": 702,
+      "pct": 36.4
+    },
+    "1": {
+      "caught": 43,
+      "eligible": 88,
+      "wait_pm": 548,
+      "delay_pm": 10,
+      "cost_pm": 558,
+      "pct": 48.9
+    },
+    "2": {
+      "caught": 43,
+      "eligible": 88,
+      "wait_pm": 548,
+      "delay_pm": 10,
+      "cost_pm": 558,
+      "pct": 48.9
+    },
+    "3": {
+      "caught": 62,
+      "eligible": 88,
+      "wait_pm": 320,
+      "delay_pm": 100,
+      "cost_pm": 420,
+      "pct": 70.5
+    }
+  },
+  "晚班接续": {
+    "0": {
+      "caught": 24,
+      "eligible": 88,
+      "wait_pm": 2094,
+      "delay_pm": 0,
+      "cost_pm": 2094,
+      "pct": 27.3
+    },
+    "1": {
+      "caught": 37,
+      "eligible": 88,
+      "wait_pm": 1652,
+      "delay_pm": 34,
+      "cost_pm": 1686,
+      "pct": 42.0
+    },
+    "2": {
+      "caught": 52,
+      "eligible": 88,
+      "wait_pm": 1157,
+      "delay_pm": 122,
+      "cost_pm": 1279,
+      "pct": 59.1
+    },
+    "3": {
+      "caught": 59,
+      "eligible": 88,
+      "wait_pm": 933,
+      "delay_pm": 176,
+      "cost_pm": 1109,
+      "pct": 67.0
+    }
+  }
+}

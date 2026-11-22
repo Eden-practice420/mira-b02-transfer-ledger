@@ -1,0 +1,17 @@
+$ python demo/run.py input
+service days   90 simulated
+day 1 / frequent | walk 1 min
+transfer 4  onboard 39
+next service after 8 min
+
+$ python demo/run.py run
+hold cap       2 min
+paired repeats 200
+perfect      +2590 pax-min
+noise 2 min  +517 pax-min
+
+$ python demo/run.py challenge
+arrival bias   -2 min | SD 1
+median         -663 pax-min
+P10 / P90      -1070 / -278
+empty hold     21.02 days / 90

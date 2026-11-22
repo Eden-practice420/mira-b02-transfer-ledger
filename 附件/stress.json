@@ -1,0 +1,17 @@
+{
+  "同向延误": {
+    "saved_transfer_pm": 731,
+    "extra_onboard_pm": 140,
+    "break_even_onboard_weight": 5.22
+  },
+  "反向错位": {
+    "saved_transfer_pm": 154,
+    "extra_onboard_pm": 10,
+    "break_even_onboard_weight": 15.4
+  },
+  "晚班接续": {
+    "saved_transfer_pm": 937,
+    "extra_onboard_pm": 122,
+    "break_even_onboard_weight": 7.68
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "perfect": {
+    "net_pm_p10": 2590,
+    "net_pm_median": 2590.0,
+    "net_pm_p90": 2590,
+    "avg_empty_hold_days": 0,
+    "avg_additional_caught": 170
+  },
+  "noise1": {
+    "net_pm_p10": 824,
+    "net_pm_median": 1306.0,
+    "net_pm_p90": 1751,
+    "avg_empty_hold_days": 6.28,
+    "avg_additional_caught": 104.91
+  },
+  "noise2": {
+    "net_pm_p10": 20,
+    "net_pm_median": 517.0,
+    "net_pm_p90": 1007,
+    "avg_empty_hold_days": 8.36,
+    "avg_additional_caught": 62.92
+  },
+  "noise4": {
+    "net_pm_p10": -216,
+    "net_pm_median": 185.5,
+    "net_pm_p90": 655,
+    "avg_empty_hold_days": 6.09,
+    "avg_additional_caught": 33.34
+  },
+  "optimistic": {
+    "net_pm_p10": -1070,
+    "net_pm_median": -663.0,
+    "net_pm_p90": -278,
+    "avg_empty_hold_days": 21.02,
+    "avg_additional_caught": 25.36
+  },
+  "pessimistic": {
+    "net_pm_p10": 212,
+    "net_pm_median": 543.0,
+    "net_pm_p90": 951,
+    "avg_empty_hold_days": 0.14,
+    "avg_additional_caught": 38.59
+  }
+}
